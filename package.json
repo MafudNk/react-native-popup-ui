@@ -1,14 +1,14 @@
 {
-  "name": "popup-ui",
-  "version": "1.2.2",
-  "description": "",
+  "name": "popup-ui-customss",
+  "version": "1.0.0",
+  "description": "A simple and fully customizable React Native component that implements a popup UI.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RafaelAugustoS/react-native-popup-ui.git"
+    "url": "git+https://github.com/MafudNk/react-native-popup-ui.git"
   },
   "keywords": [
     "react-native",
@@ -24,10 +24,17 @@
     "popup-ui",
     "popup-ui-design"
   ],
-  "author": "Rafael Augusto",
+  "author": "Rafael Augusto & (custom by me)",
   "license": "ISC",
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.60.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/MafudNk/react-native-popup-ui/issues"
+  },
+  "homepage": "https://github.com/MafudNk/react-native-popup-ui#readme",
+  "directories": {
+    "example": "examples"
+  }
 }
